@@ -17,10 +17,7 @@ A **PowerShell script** to automatically **delete old files and organize your Do
 - Configurable file extensions and folders.
 - Supports automation via Windows Task Scheduler.
 
----
 
-
----
 
 ## Requirements
 
